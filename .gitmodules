@@ -1,0 +1,3 @@
+[submodule "chapter_02/kuard"]
+	path = chapter_02/kuard
+	url = https://github.com/kubernetes-up-and-running/kuard
